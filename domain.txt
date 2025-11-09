@@ -1,0 +1,14 @@
+[
+  {
+    "method":"POST",
+    "url":"https://piransharrudaw-events.com"
+  },
+  {
+    "method":"GET",
+    "url":"https://raw.githubusercontent.com/nonkh/xoxz/main"
+  },
+  {
+    "method":"POST",
+    "url":"https://almaktoom.org"
+  }
+]

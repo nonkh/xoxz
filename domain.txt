@@ -1,4 +1,12 @@
 [
+{
+    "method":"POST",
+    "url":"https://sirjanha.com"
+  },
+{
+    "method":"POST",
+    "url":"https://akhtarbuy.com"
+  },
   {
     "method":"POST",
     "url":"https://piransharrudaw-events.com"

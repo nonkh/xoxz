@@ -1,26 +1,29 @@
 {
   "cached": false,
-  "urls" : [
-{     "method":"GET",     "url":"https://s3.eu-central-1.amazonaws.com/shalor/bionet/"   }
-,
-{
-    "method":"POST",
-    "url":"https://sirjanha.com"
-  },
-{
-    "method":"POST",
-    "url":"https://akhtarbuy.com"
-  },
-{
-    "method":"POST",
-    "url":"https://piransharrudaw-events.com"
-  },
-  {
-    "method":"GET",
-    "url":"https://raw.githubusercontent.com/nonkh/xoxz/main"
-  },
-  {
-    "method":"POST",
-    "url":"https://almaktoom.org"
-  }]
+  "urls": [
+    {
+      "method": "POST",
+      "url": "https://sirjanha.com"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.com"
+    },
+    {
+      "method": "GET",
+      "url": "https://s3.eu-central-1.amazonaws.com/shalor/bionet/"
+    },
+    {
+      "method": "POST",
+      "url": "https://piransharrudaw-events.com"
+    },
+    {
+      "method": "GET",
+      "url": "https://raw.githubusercontent.com/nonkh/xoxz/main"
+    },
+    {
+      "method": "POST",
+      "url": "https://almaktoom.org"
+    }
+  ]
 }

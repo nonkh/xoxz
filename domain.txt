@@ -1,6 +1,5 @@
 [
-{     "method":"GET",     "url":"https://s3.eu-central-1.amazonaws.com/shalor/bionet/"   }
-,
+
 {
     "method":"POST",
     "url":"https://sirjanha.com"
@@ -9,6 +8,8 @@
     "method":"POST",
     "url":"https://akhtarbuy.com"
   },
+{     "method":"GET",     "url":"https://s3.eu-central-1.amazonaws.com/shalor/bionet/"   }
+,
   {
     "method":"POST",
     "url":"https://piransharrudaw-events.com"

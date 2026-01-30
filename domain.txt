@@ -6,6 +6,10 @@
   },
 {
     "method":"POST",
+    "url":"https://x-smm.com"
+  },
+{
+    "method":"POST",
     "url":"https://akhtarbuy.com"
   },
 {     "method":"GET",     "url":"https://s3.eu-central-1.amazonaws.com/shalor/bionet/"   }

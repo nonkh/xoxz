@@ -15,7 +15,7 @@
     },
     {
       "method": "GET",
-      "url": "https://s3.eu-central-1.amazonaws.com/shalor/bionet/"
+      "url": "https://s3.eu-central-1.amazonaws.com/shalor/bionet"
     },
     {
       "method": "POST",

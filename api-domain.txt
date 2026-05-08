@@ -1,13 +1,13 @@
 {
   "cached": false,
   "urls": [
-    {
+        {
       "method": "POST",
-      "url": "https://sirjanha.com"
+      "url": "https://tmzara.com"
     },
     {
       "method": "POST",
-      "url": "https://x-smm.com"
+      "url": "https://sirjanha.com"
     },
     {
       "method": "POST",

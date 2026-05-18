@@ -7,6 +7,26 @@
     },
         {
       "method": "POST",
+      "url": "https://akhtarbuy.ca"
+    },
+        {
+      "method": "POST",
+      "url": "https://akhtarbuy.cc"
+    },
+        {
+      "method": "POST",
+      "url": "https://akhtarbuy.net"
+    },
+        {
+      "method": "POST",
+      "url": "https://akhtarbuy.org"
+    },
+        {
+      "method": "POST",
+      "url": "https://akhtarbuy.work"
+    },
+    {
+      "method": "POST",
       "url": "https://tmzara.com"
     },
     {

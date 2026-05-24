@@ -5,10 +5,6 @@
       "method": "POST",
       "url": "https://akhtarbuy.uk"
     },
-{
-      "method": "GET",
-      "url": "https://billowing-cloud-7c72.king-bistun.workers.dev"
-},
         {
       "method": "POST",
       "url": "https://akhtarbuy.ca"

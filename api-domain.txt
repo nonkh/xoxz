@@ -5,6 +5,10 @@
       "method": "POST",
       "url": "https://akhtarbuy.uk"
     },
+    {
+      "method": "GET",
+      "url": "https://gist.githubusercontent.com/nonkh/27771705006e0ec7fef0dab7133b100c/raw/a82f35b359bffdb696c72c4c15538cae074c0811"
+    },
         {
       "method": "POST",
       "url": "https://akhtarbuy.ca"

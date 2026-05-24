@@ -7,7 +7,7 @@
     },
 {
       "method": "GET",
-      "url": "https://billowing-cloud-7c72.king-bistun.workers.dev/"
+      "url": "https://billowing-cloud-7c72.king-bistun.workers.dev"
 },
         {
       "method": "POST",

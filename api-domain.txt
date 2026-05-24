@@ -6,10 +6,6 @@
       "url": "https://akhtarbuy.uk"
     },
         {
-      "method": "GET",
-      "url": "https://147-45-212-180.sslip.io"
-    },
-        {
       "method": "POST",
       "url": "https://akhtarbuy.ca"
     },

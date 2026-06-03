@@ -3,11 +3,11 @@
   "urls": [
     {
       "method": "POST",
-      "url": "https://akhtarbuy.uk"
+      "url": "https://noshabe.org"
     },
-        {
+    {
       "method": "POST",
-      "url": "https://akhtarbuy.ca"
+      "url": "https://akhtarbuy.net"
     },
         {
       "method": "POST",
@@ -15,7 +15,11 @@
     },
         {
       "method": "POST",
-      "url": "https://akhtarbuy.net"
+      "url": "https://akhtarbuy.uk"
+    },
+        {
+      "method": "POST",
+      "url": "https://akhtarbuy.ca"
     },
         {
       "method": "POST",

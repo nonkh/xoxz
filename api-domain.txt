@@ -3,10 +3,6 @@
   "urls": [
     {
       "method": "POST",
-      "url": "https://noshabe.org"
-    },
-    {
-      "method": "POST",
       "url": "https://akhtarbuy.net"
     },
         {

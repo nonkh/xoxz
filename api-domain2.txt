@@ -1,0 +1,75 @@
+{
+  "cached": false,
+  "urls": [
+    {
+      "method": "GET",
+      "url": "https://www.google.com/c/s/sufii.org",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.uk",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.ca",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.cc",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.net",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.org",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.work",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://tmzara.com",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://akhtarbuy.com",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://sirjanha.com",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "GET",
+      "url": "https://s3.eu-central-1.amazonaws.com/shalor/bionet",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://piransharrudaw-events.com",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "GET",
+      "url": "https://raw.githubusercontent.com/nonkh/xoxz/main",
+      "host": "sufii-org.cdn.ampproject.org"
+    },
+    {
+      "method": "POST",
+      "url": "https://almaktoom.org",
+      "host": "sufii-org.cdn.ampproject.org"
+    }
+  ]
+}

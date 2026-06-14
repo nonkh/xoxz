@@ -3,7 +3,7 @@
   "urls": [
     {
       "method": "GET",
-      "url": "https://www.google.com/c/s/sufii.org",
+      "url": "https://www.google.com/c/s/sufii.org/AMP",
       "host": "sufii-org.cdn.ampproject.org"
     },
     {
